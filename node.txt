@@ -1,15 +1,15 @@
 临时
 西瓜淘宝
-临时和clash,chatgpt，淘宝西瓜
+临时和clash,chatgpt，淘宝西瓜   4.31
 淘宝西瓜
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
-trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
 极简文字说明   临时和clash用6746677
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4uuS/nemanOWuouaIt+S/oeaBr+WuieWFqCIsDQogICJhZGQiOiAiMy53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwMyIsDQogICJpZCI6ICI1NTI1MWRjMi0wMGVkLTMzZGEtODUxNy05YWE0YmZmM2E5OWIiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS/neeVmeW/heimgeS/oeaBr+a4heepuuiBiuWkqeiusOW9lSIsDQogICJhZGQiOiAiNC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICI1NTI1MWRjMi0wMGVkLTMzZGEtODUxNy05YWE0YmZmM2E5OWIiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
