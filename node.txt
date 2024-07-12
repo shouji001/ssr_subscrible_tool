@@ -29,5 +29,5 @@ trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@120.232.233.217:21017?sni=k16.tudo
 trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@103.6.220.71:21188?sni=k25.tudou211.com#%E6%84%9F%E8%B0%A2%E4%BD%A0%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
 
 雷
-trojan://c1bc7177-5852-4949-8a52-e88cafc8f677@asd.leishen5288.top:11197?allowInsecure=1&peer=*.leishen5288.top&tfo=1#%E9%A6%99%E6%B8%AF02%E9%9B%B71
+trojan://c1bc7177-5852-4949-8a52-e88cafc8f677@cde.leishen5288.top:32012?allowInsecure=1&peer=*.leishen5288.top&tfo=1#%E6%97%A5%E6%9C%AC01-%E9%9B%B72
 
