@@ -1,4 +1,14 @@
 临时
+西瓜826
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101%7CNF%E4%B8%93%E7%94%A8
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A103%7CNF%E4%B8%93%E7%94%A8
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42006?sni=sg006.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A106%7CNF%E4%B8%93%E7%94%A8
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01%7CNF%E4%B8%93%E7%94%A8
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41003?sni=jp003.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC03
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43002?sni=hk002.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF02
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:45001?sni=kr001.yijiasu.xyz#V1-%E9%9F%A9%E5%9B%BD01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD01%7Copenai%E4%B8%93%E7%94%A8
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai%E4%B8%93%E7%94%A8
 极简2个文字 1.95T给临时手机用 9.1日用完极简
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4uue7neWvueS/nemanOWuouaIt+S/oeaBr+WuieWFqCIsDQogICJhZGQiOiAiNS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNSIsDQogICJpZCI6ICI2NzU1ZDZhYS0wZDIwLTNlMjEtYWRiZi1kNjk3MjYyYTRmMTEiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS/neWtmOiuoumYheWQjuWIoOmZpOiBiuWkqeiusOW9lSIsDQogICJhZGQiOiAiNi53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNiIsDQogICJpZCI6ICI2NzU1ZDZhYS0wZDIwLTNlMjEtYWRiZi1kNjk3MjYyYTRmMTEiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
